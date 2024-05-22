@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\iver jair\\source\\repos\\intenteo6\\intenteo6\\controllers\\aplicationuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\controllers\\aplicationuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\iver jair\\source\\repos\\intenteo6\\intenteo6\\controllers\\clasificacionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\controllers\\clasificacionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\iver jair\\source\\repos\\intenteo6\\intenteo6\\controllers\\publicacionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\controllers\\publicacionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\iver jair\\source\\repos\\intenteo6\\intenteo6\\controllers\\marcascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\controllers\\marcascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\iver jair\\source\\repos\\intenteo6\\intenteo6\\controllers\\modeloescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\controllers\\modeloescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\iver jair\\source\\repos\\intenteo6\\intenteo6\\controllers\\carroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\controllers\\carroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\iver jair\\source\\repos\\intenteo6\\intenteo6\\views\\generoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\views\\generoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\iver jair\\source\\repos\\intenteo6\\intenteo6\\controllers\\generoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\controllers\\generoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\iver jair\\source\\repos\\intenteo6\\intenteo6\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\iver jair\\source\\repos\\intenteo6\\intenteo6\\models\\dbmodels\\aplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\models\\dbmodels\\aplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\iver jair\\source\\repos\\intenteo6\\intenteo6\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\iver jair\\source\\repos\\intenteo6\\intenteo6\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\iver jair\\source\\repos\\intenteo6\\intenteo6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AplicationUsersController.cs",
+              "DocumentMoniker": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Controllers\\AplicationUsersController.cs",
+              "RelativeDocumentMoniker": "Intenteo6\\Controllers\\AplicationUsersController.cs",
+              "ToolTip": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Controllers\\AplicationUsersController.cs",
+              "RelativeToolTip": "Intenteo6\\Controllers\\AplicationUsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:32:05.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClasificacionsController.cs",
+              "DocumentMoniker": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Controllers\\ClasificacionsController.cs",
+              "RelativeDocumentMoniker": "Intenteo6\\Controllers\\ClasificacionsController.cs",
+              "ToolTip": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Controllers\\ClasificacionsController.cs",
+              "RelativeToolTip": "Intenteo6\\Controllers\\ClasificacionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:31:07.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PublicacionsController.cs",
+              "DocumentMoniker": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Controllers\\PublicacionsController.cs",
+              "RelativeDocumentMoniker": "Intenteo6\\Controllers\\PublicacionsController.cs",
+              "ToolTip": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Controllers\\PublicacionsController.cs",
+              "RelativeToolTip": "Intenteo6\\Controllers\\PublicacionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:30:22.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MarcasController.cs",
+              "DocumentMoniker": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Controllers\\MarcasController.cs",
+              "RelativeDocumentMoniker": "Intenteo6\\Controllers\\MarcasController.cs",
+              "ToolTip": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Controllers\\MarcasController.cs",
+              "RelativeToolTip": "Intenteo6\\Controllers\\MarcasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:25:46.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModeloesController.cs",
+              "DocumentMoniker": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Controllers\\ModeloesController.cs",
+              "RelativeDocumentMoniker": "Intenteo6\\Controllers\\ModeloesController.cs",
+              "ToolTip": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Controllers\\ModeloesController.cs",
+              "RelativeToolTip": "Intenteo6\\Controllers\\ModeloesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:20:53.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarrosController.cs",
+              "DocumentMoniker": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Controllers\\CarrosController.cs",
+              "RelativeDocumentMoniker": "Intenteo6\\Controllers\\CarrosController.cs",
+              "ToolTip": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Controllers\\CarrosController.cs",
+              "RelativeToolTip": "Intenteo6\\Controllers\\CarrosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:18:46.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Views\\Generoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Intenteo6\\Views\\Generoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Views\\Generoes\\Index.cshtml",
+              "RelativeToolTip": "Intenteo6\\Views\\Generoes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T11:15:36.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GeneroesController.cs",
+              "DocumentMoniker": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Controllers\\GeneroesController.cs",
+              "RelativeDocumentMoniker": "Intenteo6\\Controllers\\GeneroesController.cs",
+              "ToolTip": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Controllers\\GeneroesController.cs",
+              "RelativeToolTip": "Intenteo6\\Controllers\\GeneroesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:13:19.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Intenteo6\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Intenteo6\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T10:13:06.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Models\\dbModels\\AplicationUser.cs",
+              "RelativeDocumentMoniker": "Intenteo6\\Models\\dbModels\\AplicationUser.cs",
+              "ToolTip": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Models\\dbModels\\AplicationUser.cs",
+              "RelativeToolTip": "Intenteo6\\Models\\dbModels\\AplicationUser.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:38:58.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Intenteo6\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Intenteo6\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAuwIkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:31:12.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "Intenteo6\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ToolTip": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeToolTip": "Intenteo6\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:33:47.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Program.cs",
+              "RelativeDocumentMoniker": "Intenteo6\\Program.cs",
+              "ToolTip": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Program.cs",
+              "RelativeToolTip": "Intenteo6\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:00:25.941Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
