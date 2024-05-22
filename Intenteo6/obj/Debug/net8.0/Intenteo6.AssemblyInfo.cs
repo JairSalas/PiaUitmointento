@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Intenteo6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f29983c9beb66be03fcdf08c6b26c08bee36493c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Intenteo6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Intenteo6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

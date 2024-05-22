@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Intenteo6.Models.dbModels;
+using Intenteo6.Models;
 
 namespace Intenteo6.Controllers
 {
@@ -58,11 +59,24 @@ namespace Intenteo6.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("IdCar,Name,Año,Idmodelo,Precio,Marca")] Carro carro)
+        public async Task<IActionResult> Create([Bind("IdCar,Name,Año,Idmodelo,Precio,Marca")] CarroHr carro)
         {
+
             if (ModelState.IsValid)
             {
-                _context.Add(carro);
+                Carro carro1 = new Carro
+                {
+                    Name = carro.Name,
+                    Año = carro.Año,
+                    Idmodelo = carro.Idmodelo,
+                    Precio = carro.Precio,
+                    Marca = carro.Marca
+                };
+               
+
+
+
+                _context.Carros.Add(carro1);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
