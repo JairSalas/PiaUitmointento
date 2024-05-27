@@ -1,8 +1,29 @@
-﻿@{
+﻿@using Intenteo6.Models.dbModels
+@{
     ViewData["Title"] = "Home Page";
 }
+@model List<Carro>
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <div class="row">
+        @foreach (var carro in Model)
+        {
+            <div class="col-md-4">
+                <div class="card mb-4 shadow-sm">
+                    <img src="" class="card-img-top" alt="Imagen del carro">
+                    <div class="card-body">
+                        <h5 class="card-title">@carro.Idmodelo</h5>
+                        <p class="card-text">Año: @carro.Año</p>
+                        <p class="card-text">Precio: @carro.Precio</p>
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div class="btn-group">
+                                <a href="@Url.Action("Detalles", "Carro", new { id = carro.IdCar })" class="btn btn-sm btn-outline-secondary">Ver Detalles</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+    
 </div>

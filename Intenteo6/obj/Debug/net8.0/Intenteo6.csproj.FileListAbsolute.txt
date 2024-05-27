@@ -286,3 +286,14 @@ C:\Users\IVER JAIR\source\repos\Intenteo6\Intenteo6\bin\Debug\net8.0\runtimes\wi
 C:\Users\IVER JAIR\source\repos\Intenteo6\Intenteo6\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\IVER JAIR\source\repos\Intenteo6\Intenteo6\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\IVER JAIR\source\repos\Intenteo6\Intenteo6\obj\Debug\net8.0\Intenteo6.sourcelink.json
+C:\Users\IVER JAIR\source\repos\Intenteo6\Intenteo6\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\IVER JAIR\source\repos\Intenteo6\Intenteo6\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\IVER JAIR\source\repos\Intenteo6\Intenteo6\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\IVER JAIR\source\repos\Intenteo6\Intenteo6\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+C:\Users\IVER JAIR\source\repos\Intenteo6\Intenteo6\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+C:\Users\IVER JAIR\source\repos\Intenteo6\Intenteo6\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\IVER JAIR\source\repos\Intenteo6\Intenteo6\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\IVER JAIR\source\repos\Intenteo6\Intenteo6\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\IVER JAIR\source\repos\Intenteo6\Intenteo6\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\IVER JAIR\source\repos\Intenteo6\Intenteo6\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Users\IVER JAIR\source\repos\Intenteo6\Intenteo6\bin\Debug\net8.0\MessagePack.Annotations.dll

@@ -6,9 +6,11 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Intenteo6.Models.dbModels;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Intenteo6.Controllers
 {
+    [Authorize(Roles = "Admin")]
     public class MarcasController : Controller
     {
         private readonly DriveDreamDbContext _context;

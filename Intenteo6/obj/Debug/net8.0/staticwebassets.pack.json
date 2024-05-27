@@ -13,6 +13,30 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\wwwroot\\js\\Clasificacion.js",
+      "PackagePath": "staticwebassets\\js\\Clasificacion.js"
+    },
+    {
+      "Id": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\wwwroot\\js\\Usuariosjs.js",
+      "PackagePath": "staticwebassets\\js\\Usuariosjs.js"
+    },
+    {
+      "Id": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\wwwroot\\js\\carros.js",
+      "PackagePath": "staticwebassets\\js\\carros.js"
+    },
+    {
+      "Id": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\wwwroot\\js\\genero.js",
+      "PackagePath": "staticwebassets\\js\\genero.js"
+    },
+    {
+      "Id": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\wwwroot\\js\\marca.js",
+      "PackagePath": "staticwebassets\\js\\marca.js"
+    },
+    {
+      "Id": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\wwwroot\\js\\modelo.js",
+      "PackagePath": "staticwebassets\\js\\modelo.js"
+    },
+    {
       "Id": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

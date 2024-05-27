@@ -6,27 +6,33 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Intenteo6.Models.dbModels;
-using Intenteo6.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Intenteo6.Controllers
+
 {
-    public class CarrosController : Controller
+    [Authorize(Roles = "Admin")]
+    public class CarroesController : Controller
+
     {
+        
         private readonly DriveDreamDbContext _context;
 
-        public CarrosController(DriveDreamDbContext context)
+        public CarroesController(DriveDreamDbContext context)
         {
             _context = context;
         }
 
-        // GET: Carros
-        public async Task<IActionResult> Index()
+        // GET: Carroes
+        
+{        public async Task<IActionResult> Index()
         {
             var driveDreamDbContext = _context.Carros.Include(c => c.IdmodeloNavigation).Include(c => c.MarcaNavigation);
             return View(await driveDreamDbContext.ToListAsync());
+           
         }
 
-        // GET: Carros/Details/5
+        // GET: Carroes/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -46,7 +52,7 @@ namespace Intenteo6.Controllers
             return View(carro);
         }
 
-        // GET: Carros/Create
+        // GET: Carroes/Create
         public IActionResult Create()
         {
             ViewData["Idmodelo"] = new SelectList(_context.Modelos, "IdModelo", "IdModelo");
@@ -54,29 +60,16 @@ namespace Intenteo6.Controllers
             return View();
         }
 
-        // POST: Carros/Create
+        // POST: Carroes/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("IdCar,Name,Año,Idmodelo,Precio,Marca")] CarroHr carro)
+        public async Task<IActionResult> Create([Bind("IdCar,Name,Año,Idmodelo,Precio,Marca")] Carro carro)
         {
-
             if (ModelState.IsValid)
             {
-                Carro carro1 = new Carro
-                {
-                    Name = carro.Name,
-                    Año = carro.Año,
-                    Idmodelo = carro.Idmodelo,
-                    Precio = carro.Precio,
-                    Marca = carro.Marca
-                };
-               
-
-
-
-                _context.Carros.Add(carro1);
+                _context.Add(carro);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
@@ -85,7 +78,7 @@ namespace Intenteo6.Controllers
             return View(carro);
         }
 
-        // GET: Carros/Edit/5
+        // GET: Carroes/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -103,7 +96,7 @@ namespace Intenteo6.Controllers
             return View(carro);
         }
 
-        // POST: Carros/Edit/5
+        // POST: Carroes/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
@@ -140,7 +133,7 @@ namespace Intenteo6.Controllers
             return View(carro);
         }
 
-        // GET: Carros/Delete/5
+        // GET: Carroes/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -160,7 +153,7 @@ namespace Intenteo6.Controllers
             return View(carro);
         }
 
-        // POST: Carros/Delete/5
+        // POST: Carroes/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)

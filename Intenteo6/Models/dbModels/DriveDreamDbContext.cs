@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using Intenteo6.Models.dbModels;
+using Intenteo6.Models.DTO;
 
 namespace Intenteo6.Models.dbModels;
 
@@ -35,6 +37,7 @@ public partial class DriveDreamDbContext : IdentityDbContext<AplicationUser,Iden
 
     public virtual DbSet<Publicacion> Publicacions { get; set; }
 
+   
 
 
 
@@ -96,4 +99,6 @@ public partial class DriveDreamDbContext : IdentityDbContext<AplicationUser,Iden
     }
 
     partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
+
+
 }

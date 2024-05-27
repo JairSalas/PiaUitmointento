@@ -206,24 +206,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBsaWNhdGlvblVzZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/IVER JAIR/source/repos/Intenteo6/Intenteo6/Views/Carros/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycm9zXENyZWF0ZS5jc2h0bWw=
+[C:/Users/IVER JAIR/source/repos/Intenteo6/Intenteo6/Views/Carroes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycm9lc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/IVER JAIR/source/repos/Intenteo6/Intenteo6/Views/Carros/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycm9zXERlbGV0ZS5jc2h0bWw=
+[C:/Users/IVER JAIR/source/repos/Intenteo6/Intenteo6/Views/Carroes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycm9lc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/IVER JAIR/source/repos/Intenteo6/Intenteo6/Views/Carros/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycm9zXERldGFpbHMuY3NodG1s
+[C:/Users/IVER JAIR/source/repos/Intenteo6/Intenteo6/Views/Carroes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycm9lc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/IVER JAIR/source/repos/Intenteo6/Intenteo6/Views/Carros/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycm9zXEVkaXQuY3NodG1s
+[C:/Users/IVER JAIR/source/repos/Intenteo6/Intenteo6/Views/Carroes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycm9lc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/IVER JAIR/source/repos/Intenteo6/Intenteo6/Views/Carros/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycm9zXEluZGV4LmNzaHRtbA==
+[C:/Users/IVER JAIR/source/repos/Intenteo6/Intenteo6/Views/Carroes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycm9lc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/IVER JAIR/source/repos/Intenteo6/Intenteo6/Views/Clasificacions/Create.cshtml]
@@ -246,6 +246,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2lmaWNhY2lvbnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/IVER JAIR/source/repos/Intenteo6/Intenteo6/Views/FotosCars/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm90b3NDYXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IVER JAIR/source/repos/Intenteo6/Intenteo6/Views/FotosCars/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm90b3NDYXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IVER JAIR/source/repos/Intenteo6/Intenteo6/Views/FotosCars/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm90b3NDYXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IVER JAIR/source/repos/Intenteo6/Intenteo6/Views/FotosCars/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm90b3NDYXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IVER JAIR/source/repos/Intenteo6/Intenteo6/Views/FotosCars/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm90b3NDYXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/IVER JAIR/source/repos/Intenteo6/Intenteo6/Views/Generoes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJvZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -266,8 +286,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJvZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/IVER JAIR/source/repos/Intenteo6/Intenteo6/Views/Home/Ayuda.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBeXVkYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/IVER JAIR/source/repos/Intenteo6/Intenteo6/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IVER JAIR/source/repos/Intenteo6/Intenteo6/Views/Home/Noticias.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOb3RpY2lhcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/IVER JAIR/source/repos/Intenteo6/Intenteo6/Views/Home/Privacy.cshtml]
@@ -332,6 +360,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/IVER JAIR/source/repos/Intenteo6/Intenteo6/Views/Publicacions/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGljYWNpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IVER JAIR/source/repos/Intenteo6/Intenteo6/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/IVER JAIR/source/repos/Intenteo6/Intenteo6/Views/Shared/Error.cshtml]

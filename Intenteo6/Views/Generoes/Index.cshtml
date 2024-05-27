@@ -4,12 +4,12 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index Crud Generos</h1>
+<h1> Crud Generos</h1>
 
 <p>
     <a asp-action="Create">Create New</a>
 </p>
-<table class="table">
+<table class="table" id="tablaGenero">
     <thead>
         <tr>
             <th>
@@ -33,3 +33,6 @@
 }
     </tbody>
 </table>
+@section Scripts {
+    <script src="~/js/genero.js"></script>
+}

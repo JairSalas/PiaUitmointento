@@ -19,7 +19,19 @@ builder.Services.AddIdentity<AplicationUser, IdentityRole<int>>()
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
 
+builder.Services.ConfigureApplicationCookie(options =>
+{
+
+    options.LoginPath = "/Identity/Account/Login";
+    options.LogoutPath = "/Identitty/Account/Logout";
+    options.AccessDeniedPath = "/Identity/Account/AccessDenied";
+
+  
+});
+
+
 var app = builder.Build();
+
 
     
 // Configure the HTTP request pipeline.
