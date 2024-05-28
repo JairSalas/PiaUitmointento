@@ -1,26 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alexg\\OneDrive\\Escritorio\\IntentoFinal.1\\PiaUitmointento\\",
+  "WorkspaceRootPath": "C:\\Users\\marco\\OneDrive\\Escritorio\\Pia final 2\\PiaUitmointento\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\alexg\\onedrive\\escritorio\\intentofinal.1\\piauitmointento\\intenteo6\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\marco\\onedrive\\escritorio\\pia final 2\\piauitmointento\\intenteo6\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\alexg\\onedrive\\escritorio\\intentofinal.1\\piauitmointento\\intenteo6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\marco\\onedrive\\escritorio\\pia final 2\\piauitmointento\\intenteo6\\views\\home\\noticias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\views\\home\\noticias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\alexg\\onedrive\\escritorio\\intentofinal.1\\piauitmointento\\intenteo6\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\marco\\onedrive\\escritorio\\pia final 2\\piauitmointento\\intenteo6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\alexg\\onedrive\\escritorio\\intentofinal.1\\piauitmointento\\intenteo6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\marco\\onedrive\\escritorio\\pia final 2\\piauitmointento\\intenteo6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\alexg\\onedrive\\escritorio\\intentofinal.1\\piauitmointento\\intenteo6\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\marco\\onedrive\\escritorio\\pia final 2\\piauitmointento\\intenteo6\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\marco\\onedrive\\escritorio\\pia final 2\\piauitmointento\\intenteo6\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\marco\\onedrive\\escritorio\\pia final 2\\piauitmointento\\intenteo6\\views\\aplicationusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\views\\aplicationusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\marco\\onedrive\\escritorio\\pia final 2\\piauitmointento\\intenteo6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,23 +47,59 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\alexg\\OneDrive\\Escritorio\\IntentoFinal.1\\PiaUitmointento\\Intenteo6\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Intenteo6\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\alexg\\OneDrive\\Escritorio\\IntentoFinal.1\\PiaUitmointento\\Intenteo6\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Intenteo6\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Pia final 2\\PiaUitmointento\\Intenteo6\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Intenteo6\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\Pia final 2\\PiaUitmointento\\Intenteo6\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Intenteo6\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACUAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-28T17:58:25.915Z",
+              "WhenOpened": "2024-05-28T19:27:34.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Noticias.cshtml",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Pia final 2\\PiaUitmointento\\Intenteo6\\Views\\Home\\Noticias.cshtml",
+              "RelativeDocumentMoniker": "Intenteo6\\Views\\Home\\Noticias.cshtml",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\Pia final 2\\PiaUitmointento\\Intenteo6\\Views\\Home\\Noticias.cshtml",
+              "RelativeToolTip": "Intenteo6\\Views\\Home\\Noticias.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T19:21:17.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Pia final 2\\PiaUitmointento\\Intenteo6\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Intenteo6\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\Pia final 2\\PiaUitmointento\\Intenteo6\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Intenteo6\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T19:19:51.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Pia final 2\\PiaUitmointento\\Intenteo6\\Views\\AplicationUsers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Intenteo6\\Views\\AplicationUsers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\Pia final 2\\PiaUitmointento\\Intenteo6\\Views\\AplicationUsers\\Index.cshtml",
+              "RelativeToolTip": "Intenteo6\\Views\\AplicationUsers\\Index.cshtml",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T18:52:11.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\alexg\\OneDrive\\Escritorio\\IntentoFinal.1\\PiaUitmointento\\Intenteo6\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Pia final 2\\PiaUitmointento\\Intenteo6\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Intenteo6\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\alexg\\OneDrive\\Escritorio\\IntentoFinal.1\\PiaUitmointento\\Intenteo6\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\Pia final 2\\PiaUitmointento\\Intenteo6\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Intenteo6\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -59,13 +107,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\alexg\\OneDrive\\Escritorio\\IntentoFinal.1\\PiaUitmointento\\Intenteo6\\Controllers\\AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Pia final 2\\PiaUitmointento\\Intenteo6\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "Intenteo6\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\alexg\\OneDrive\\Escritorio\\IntentoFinal.1\\PiaUitmointento\\Intenteo6\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\Pia final 2\\PiaUitmointento\\Intenteo6\\Controllers\\AdminController.cs",
               "RelativeToolTip": "Intenteo6\\Controllers\\AdminController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAA8wDgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T17:51:41.586Z"
             },
@@ -73,23 +121,23 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\alexg\\OneDrive\\Escritorio\\IntentoFinal.1\\PiaUitmointento\\Intenteo6\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Pia final 2\\PiaUitmointento\\Intenteo6\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Intenteo6\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\alexg\\OneDrive\\Escritorio\\IntentoFinal.1\\PiaUitmointento\\Intenteo6\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\Pia final 2\\PiaUitmointento\\Intenteo6\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Intenteo6\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAB5AAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAB4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-28T17:42:57.344Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Admin.cshtml",
-              "DocumentMoniker": "C:\\Users\\alexg\\OneDrive\\Escritorio\\IntentoFinal.1\\PiaUitmointento\\Intenteo6\\Views\\Home\\Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Pia final 2\\PiaUitmointento\\Intenteo6\\Views\\Home\\Admin.cshtml",
               "RelativeDocumentMoniker": "Intenteo6\\Views\\Home\\Admin.cshtml",
-              "ToolTip": "C:\\Users\\alexg\\OneDrive\\Escritorio\\IntentoFinal.1\\PiaUitmointento\\Intenteo6\\Views\\Home\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\Pia final 2\\PiaUitmointento\\Intenteo6\\Views\\Home\\Admin.cshtml",
               "RelativeToolTip": "Intenteo6\\Views\\Home\\Admin.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAGAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-28T17:41:15.411Z"
             }
