@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\iver jair\\source\\repos\\piauitmointento\\intenteo6\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\iver jair\\source\\repos\\piauitmointento\\intenteo6\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|C:\\Users\\IVER JAIR\\source\\repos\\PiaUitmointento\\intenteo6\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -42,11 +50,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\IVER JAIR\\source\\repos\\PiaUitmointento\\Intenteo6\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Intenteo6\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\IVER JAIR\\source\\repos\\PiaUitmointento\\Intenteo6\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Intenteo6\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T23:39:35.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\IVER JAIR\\source\\repos\\PiaUitmointento\\Intenteo6\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Intenteo6\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\IVER JAIR\\source\\repos\\PiaUitmointento\\Intenteo6\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Intenteo6\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T23:33:45.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\IVER JAIR\\source\\repos\\PiaUitmointento\\Intenteo6\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Intenteo6\\Views\\Home\\Privacy.cshtml",
@@ -58,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Noticias.cshtml",
               "DocumentMoniker": "C:\\Users\\IVER JAIR\\source\\repos\\PiaUitmointento\\Intenteo6\\Views\\Home\\Noticias.cshtml",
               "RelativeDocumentMoniker": "Intenteo6\\Views\\Home\\Noticias.cshtml",
@@ -70,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\IVER JAIR\\source\\repos\\PiaUitmointento\\Intenteo6\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Intenteo6\\Views\\Home\\Index.cshtml",
@@ -82,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\IVER JAIR\\source\\repos\\PiaUitmointento\\Intenteo6\\Views\\AplicationUsers\\Index.cshtml",
               "RelativeDocumentMoniker": "Intenteo6\\Views\\AplicationUsers\\Index.cshtml",
@@ -94,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\IVER JAIR\\source\\repos\\PiaUitmointento\\Intenteo6\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Intenteo6\\Controllers\\HomeController.cs",
@@ -106,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\IVER JAIR\\source\\repos\\PiaUitmointento\\Intenteo6\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "Intenteo6\\Controllers\\AdminController.cs",
@@ -124,14 +158,14 @@
               "RelativeDocumentMoniker": "Intenteo6\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\IVER JAIR\\source\\repos\\PiaUitmointento\\Intenteo6\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Intenteo6\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABMAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAB8AAABpAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-28T17:42:57.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Admin.cshtml",
               "DocumentMoniker": "C:\\Users\\IVER JAIR\\source\\repos\\PiaUitmointento\\Intenteo6\\Views\\Home\\Admin.cshtml",
               "RelativeDocumentMoniker": "Intenteo6\\Views\\Home\\Admin.cshtml",
