@@ -8924,19 +8924,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\IVER JAIR\\.nuget\\packages\\": {}
+    "C:\\Users\\alexg\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Intenteo6.csproj",
+      "projectUniqueName": "C:\\Users\\alexg\\OneDrive\\Escritorio\\IntentoFinal.1\\PiaUitmointento\\Intenteo6\\Intenteo6.csproj",
       "projectName": "Intenteo6",
-      "projectPath": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Intenteo6.csproj",
-      "packagesPath": "C:\\Users\\IVER JAIR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\obj\\",
+      "projectPath": "C:\\Users\\alexg\\OneDrive\\Escritorio\\IntentoFinal.1\\PiaUitmointento\\Intenteo6\\Intenteo6.csproj",
+      "packagesPath": "C:\\Users\\alexg\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alexg\\OneDrive\\Escritorio\\IntentoFinal.1\\PiaUitmointento\\Intenteo6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\IVER JAIR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alexg\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9023,7 +9023,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
