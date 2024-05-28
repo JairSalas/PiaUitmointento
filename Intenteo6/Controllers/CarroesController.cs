@@ -10,7 +10,8 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace Intenteo6.Controllers
 
-{
+
+    {
     [Authorize(Roles = "Admin")]
     public class CarroesController : Controller
 
@@ -25,7 +26,7 @@ namespace Intenteo6.Controllers
 
         // GET: Carroes
         
-{        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index()
         {
             var driveDreamDbContext = _context.Carros.Include(c => c.IdmodeloNavigation).Include(c => c.MarcaNavigation);
             return View(await driveDreamDbContext.ToListAsync());

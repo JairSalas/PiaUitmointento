@@ -17,6 +17,10 @@ namespace Intenteo6.Controllers
         {
             return View();
         }
+        public IActionResult Ayuda()
+        {
+            return View();
+        }
 
         public IActionResult Privacy()
         {
