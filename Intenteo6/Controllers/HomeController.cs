@@ -1,5 +1,7 @@
 using Intenteo6.Models;
+using Intenteo6.Models.dbModels;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 
 namespace Intenteo6.Controllers
@@ -7,15 +9,22 @@ namespace Intenteo6.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly DriveDreamDbContext _context;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, DriveDreamDbContext context)
         {
             _logger = logger;
+            _context = context;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            var carros = await _context.Carros
+                .Include(c => c.IdmodeloNavigation)
+                .Include(c => c.MarcaNavigation)
+                .ToListAsync();
+
+            return View(carros);
         }
         public IActionResult Ayuda()
         {

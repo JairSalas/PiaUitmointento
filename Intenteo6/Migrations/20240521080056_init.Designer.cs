@@ -11,8 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace Intenteo6.Migrations
 {
-    [DbContext(typeof(DriveDreamDbContext))]
-    [Migration("20240521080056_init")]
+    
     partial class init
     {
         /// <inheritdoc />

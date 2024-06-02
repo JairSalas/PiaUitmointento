@@ -6,17 +6,12 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Intenteo6.Models.dbModels;
-using Microsoft.AspNetCore.Authorization;
+using Intenteo6.Models;
 
 namespace Intenteo6.Controllers
-
-
-    {
-    [Authorize(Roles = "Admin")]
+{
     public class CarroesController : Controller
-
     {
-        
         private readonly DriveDreamDbContext _context;
 
         public CarroesController(DriveDreamDbContext context)
@@ -25,12 +20,10 @@ namespace Intenteo6.Controllers
         }
 
         // GET: Carroes
-        
         public async Task<IActionResult> Index()
         {
             var driveDreamDbContext = _context.Carros.Include(c => c.IdmodeloNavigation).Include(c => c.MarcaNavigation);
             return View(await driveDreamDbContext.ToListAsync());
-           
         }
 
         // GET: Carroes/Details/5
@@ -66,11 +59,24 @@ namespace Intenteo6.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("IdCar,Name,Año,Idmodelo,Precio,Marca")] Carro carro)
+        public async Task<IActionResult> Create([Bind("IdCar,Name,Año,Idmodelo,Precio,Marca")] CarroCreateDTO carro)
         {
+
             if (ModelState.IsValid)
             {
-                _context.Add(carro);
+                Carro carro1 = new Carro
+                {
+                    Name = carro.Name,
+                    Año = carro.Año,
+                    Idmodelo = carro.Idmodelo,
+                    Precio = carro.Precio,
+                    Marca = carro.Marca
+                };
+
+
+
+
+                _context.Carros.Add(carro1);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }

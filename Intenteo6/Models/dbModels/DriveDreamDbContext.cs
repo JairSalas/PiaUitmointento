@@ -36,11 +36,7 @@ public partial class DriveDreamDbContext : IdentityDbContext<AplicationUser,Iden
     public virtual DbSet<Modelo> Modelos { get; set; }
 
     public virtual DbSet<Publicacion> Publicacions { get; set; }
-
-   
-
-
-
+  
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

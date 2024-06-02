@@ -1,40 +1,25 @@
-﻿<h1 class="text-center">Bienvenido a Drive Dreams</h1>
+﻿@model IEnumerable<Intenteo6.Models.dbModels.Carro>
 
-<div class="row mb-4">
-    <div class="col-12 text-center">
-        <input type="text" class="form-control" placeholder="Busca por ejemplo Versa 2023" aria-label="Search">
-    </div>
-</div>
-<div class="row mb-4">
-    <div class="col-12 col-md-6 col-lg-3">
-        <h5>Rango de precio</h5>
-        <ul class="list-group">
-            <li class="list-group-item">150K</li>
-            <li class="list-group-item">150K-300K</li>
-            <li class="list-group-item">300K-900K</li>
-            <li class="list-group-item">900K+</li>
-        </ul>
-    </div>
-    <div class="col-12 col-md-6 col-lg-3">
-        <h5>Carrocería</h5>
-        <ul class="list-group">
-            <li class="list-group-item">Sedan</li>
-            <li class="list-group-item">Hatchback</li>
-            <li class="list-group-item">SUV</li>
-            <li class="list-group-item">Deportivo</li>
-        </ul>
-    </div>
-</div>
+@{
+    ViewData["Title"] = "Home Page";
+}
 
-<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
-    <div class="col">
-        <div class="card">
-            <img src="https://acnews.blob.core.windows.net/imgnews/medium/NAZ_5c9c8579904d414c8a78c83204344cf6.jpg" class="card-img-top" alt="Kia Sport">
-            <div class="card-body">
-                <h5 class="card-title">Kia sport</h5>
-                <p class="card-text">2018 | 0 km | Hermosillo</p>
-                <p class="card-text">$350,000</p>
+<h1>Index</h1>
+
+<div class="container">
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-lg-3 col-md-6 mb-4">
+                <div class="card">
+                    <img src="" class="card-img-top" alt="@item.Name">
+                    <div class="card-body">
+                        <h5 class="card-title">@item.Name</h5>
+                        <p class="card-text">@item.Año | 0 km | Hermosillo</p>
+                        <p class="card-text">@item.Precio</p>
+                    </div>
+                </div>
             </div>
-        </div>
+        }
     </div>
-    <!-- Repite este bloque para cada coche -->
+</div>
