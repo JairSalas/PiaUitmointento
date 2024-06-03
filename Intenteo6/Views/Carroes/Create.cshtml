@@ -35,6 +35,11 @@
                 <label asp-for="Marca" class="control-label"></label>
                 <select asp-for="Marca" class ="form-control" asp-items="ViewBag.Marca"></select>
             </div>
+            <div class="from-group">
+                <label asp-for="FotosCar" class="control-label"></label>
+                <input asp-for="FotosCar" class="form-control" />
+                <span asp-validation-for="FotosCar" class="text-danger"></span>
+            </div>
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>

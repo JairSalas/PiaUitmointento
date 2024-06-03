@@ -17,387 +17,387 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Intenteo6
 build_property.RootNamespace = Intenteo6
-build_property.ProjectDir = C:\Users\alexg\OneDrive\Escritorio\PIALEPEDEF\PiaUitmointento\Intenteo6\
+build_property.ProjectDir = C:\Users\marco\OneDrive\Escritorio\PIA DEFINITIVO 2\PiaUitmointento\Intenteo6\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\alexg\OneDrive\Escritorio\PIALEPEDEF\PiaUitmointento\Intenteo6
+build_property.MSBuildProjectDirectory = C:\Users\marco\OneDrive\Escritorio\PIA DEFINITIVO 2\PiaUitmointento\Intenteo6
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/AccessDenied.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWxDaGFuZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxFeHRlcm5hbExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Lockout.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Lockout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2Nrb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Login.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/LoginWith2fa.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/LoginWith2fa.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGgyZmEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGhSZWNvdmVyeUNvZGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Logout.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGVsZXRlUGVyc29uYWxEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGlzYWJsZTJmYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRG93bmxvYWRQZXJzb25hbERhdGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/Email.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/Email.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW5hYmxlQXV0aGVudGljYXRvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRXh0ZXJuYWxMb2dpbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcR2VuZXJhdGVSZWNvdmVyeUNvZGVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUGVyc29uYWxEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUmVzZXRBdXRoZW50aWNhdG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2V0UGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2hvd1JlY292ZXJ5Q29kZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcVHdvRmFjdG9yQXV0aGVudGljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1N0YXR1c01lc3NhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Register.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNlbmRFbWFpbENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/ResetPassword.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/ResetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfU3RhdHVzTWVzc2FnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Error.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/_ViewImports.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Admin/Index.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/AplicationUsers/Create.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/AplicationUsers/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBsaWNhdGlvblVzZXJzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/AplicationUsers/Delete.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/AplicationUsers/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBsaWNhdGlvblVzZXJzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/AplicationUsers/Details.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/AplicationUsers/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBsaWNhdGlvblVzZXJzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/AplicationUsers/Edit.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/AplicationUsers/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBsaWNhdGlvblVzZXJzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/AplicationUsers/Index.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/AplicationUsers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBsaWNhdGlvblVzZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Carroes/Create.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Carroes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycm9lc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Carroes/Delete.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Carroes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycm9lc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Carroes/Details.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Carroes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycm9lc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Carroes/Edit.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Carroes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycm9lc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Carroes/Index.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Carroes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycm9lc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Clasificacions/Create.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Clasificacions/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2lmaWNhY2lvbnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Clasificacions/Delete.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Clasificacions/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2lmaWNhY2lvbnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Clasificacions/Details.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Clasificacions/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2lmaWNhY2lvbnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Clasificacions/Edit.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Clasificacions/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2lmaWNhY2lvbnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Clasificacions/Index.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Clasificacions/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2lmaWNhY2lvbnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/FotosCars/Create.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/FotosCars/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm90b3NDYXJzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/FotosCars/Delete.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/FotosCars/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm90b3NDYXJzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/FotosCars/Details.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/FotosCars/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm90b3NDYXJzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/FotosCars/Edit.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/FotosCars/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm90b3NDYXJzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/FotosCars/Index.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/FotosCars/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm90b3NDYXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Generoes/Create.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Generoes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJvZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Generoes/Delete.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Generoes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJvZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Generoes/Details.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Generoes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJvZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Generoes/Edit.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Generoes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJvZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Generoes/Index.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Generoes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJvZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Home/Admin.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Home/Admin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Home/Ayuda.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Home/Ayuda.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBeXVkYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Home/Index.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Home/Noticias.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Home/Noticias.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOb3RpY2lhcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Home/Privacy.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Marcas/Create.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Marcas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Marcas/Delete.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Marcas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Marcas/Details.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Marcas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Marcas/Edit.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Marcas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Marcas/Index.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Marcas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Modeloes/Create.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Modeloes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxvZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Modeloes/Delete.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Modeloes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxvZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Modeloes/Details.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Modeloes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxvZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Modeloes/Edit.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Modeloes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxvZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Modeloes/Index.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Modeloes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxvZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/POST/Index.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/POST/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUE9TVFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Publicacions/Create.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Publicacions/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGljYWNpb25zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Publicacions/Delete.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Publicacions/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGljYWNpb25zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Publicacions/Details.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Publicacions/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGljYWNpb25zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Publicacions/Edit.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Publicacions/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGljYWNpb25zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Publicacions/Index.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Publicacions/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGljYWNpb25zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Role/Index.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Role/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Shared/Error.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/_ViewImports.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/_ViewStart.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexg/OneDrive/Escritorio/PIALEPEDEF/PiaUitmointento/Intenteo6/Views/Shared/_Layout.cshtml]
+[C:/Users/marco/OneDrive/Escritorio/PIA DEFINITIVO 2/PiaUitmointento/Intenteo6/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-7ozwn8zsw8
