@@ -1,20 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\marco\\OneDrive\\Escritorio\\PIA DEFINITIVO 3\\PiaUitmointento\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\marco\\onedrive\\escritorio\\pia definitivo 3\\piauitmointento\\intenteo6\\views\\carroes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\views\\carroes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\marco\\onedrive\\escritorio\\pia definitivo 3\\piauitmointento\\intenteo6\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\marco\\onedrive\\escritorio\\pia definitivo 3\\piauitmointento\\intenteo6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\alexg\\OneDrive\\Escritorio\\PiaUltimo1212\\PiaUitmointento\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,46 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\PIA DEFINITIVO 3\\PiaUitmointento\\Intenteo6\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Intenteo6\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\PIA DEFINITIVO 3\\PiaUitmointento\\Intenteo6\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Intenteo6\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-03T03:58:48.57Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Admin.cshtml",
-              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\PIA DEFINITIVO 3\\PiaUitmointento\\Intenteo6\\Views\\Home\\Admin.cshtml",
-              "RelativeDocumentMoniker": "Intenteo6\\Views\\Home\\Admin.cshtml",
-              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\PIA DEFINITIVO 3\\PiaUitmointento\\Intenteo6\\Views\\Home\\Admin.cshtml",
-              "RelativeToolTip": "Intenteo6\\Views\\Home\\Admin.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-03T03:47:57.927Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\PIA DEFINITIVO 3\\PiaUitmointento\\Intenteo6\\Views\\Carroes\\Index.cshtml",
-              "RelativeDocumentMoniker": "Intenteo6\\Views\\Carroes\\Index.cshtml",
-              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\PIA DEFINITIVO 3\\PiaUitmointento\\Intenteo6\\Views\\Carroes\\Index.cshtml",
-              "RelativeToolTip": "Intenteo6\\Views\\Carroes\\Index.cshtml",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAAAAoAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-03T03:46:12.02Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
             }
           ]
         }

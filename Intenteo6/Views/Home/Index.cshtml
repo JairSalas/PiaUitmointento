@@ -4,6 +4,14 @@
     ViewData["Title"] = "Home Page";
 }
 <style>
+
+    h1 {
+        font-size: 2.5rem; /* Letras más grandes */
+        font-family: 'Arial Black', sans-serif; /* Tipografía más de título */
+        text-align: center;
+        color: #333;
+    }
+
     .card {
         border: 1px solid #e0e0e0;
         border-radius: 8px;
@@ -45,9 +53,19 @@
     .mb-4 {
         margin-bottom: 1.5rem !important;
     }
+
+    .list-group-item {
+        cursor: pointer;
+        transition: background-color 0.3s, color 0.3s;
+    }
+
+        .list-group-item:hover {
+            background-color: #007bff;
+            color: white;
+        }
 </style>
 
-<h1 class="text-center">Bienvenido a Drive Dreams</h1>
+<h1>Bienvenido a Drive Dreams</h1>
 
 <div class="row mb-4">
     <div class="col-12 text-center">
