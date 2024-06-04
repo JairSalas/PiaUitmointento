@@ -14,7 +14,7 @@ public partial class Publicacion
     public int IdPublicacion { get; set; }
 
     [Column("fecha")]
-    public DateOnly Fecha { get; set; }
+    public DateTime Fecha { get; set; }
 
     [Column("titulo")]
     [StringLength(100)]
@@ -32,6 +32,7 @@ public partial class Publicacion
 
     [Column("imagen")]
     public string? Imagen { get; set; }
+   
 
     [ForeignKey("Clasificacion")]
     [InverseProperty("Publicacions")]
@@ -40,4 +41,10 @@ public partial class Publicacion
     [ForeignKey("IdUsuario")]
     [InverseProperty("Publicacions")]
     public virtual AplicationUser IdUsuarioNavigation { get; set; } = null!;
-}
+
+
+
+
+     
+} 
+

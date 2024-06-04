@@ -10,22 +10,38 @@ namespace Intenteo6.Controllers
     {
         private readonly ILogger<HomeController> _logger;
         private readonly DriveDreamDbContext _context;
-
+        private readonly List<Carro> _carros;
         public HomeController(ILogger<HomeController> logger, DriveDreamDbContext context)
         {
             _logger = logger;
             _context = context;
+           
         }
+        
 
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string buscar)
         {
-            var carros = await _context.Carros
-                .Include(c => c.IdmodeloNavigation)
-                .Include(c => c.MarcaNavigation)
-                .ToListAsync();
+             var carros = await _context.Carros
+               .Include(c => c.IdmodeloNavigation)
+               .Include(c => c.MarcaNavigation)
+               .ToListAsync();
+            //Filtro de Bsuqueda
 
-            return View(carros);
-        }
+            
+
+              return View(carros);
+
+
+       }
+     
+
+
+
+
+
+
+
+
         public IActionResult Ayuda()
         {
             return View();

@@ -48,7 +48,7 @@
 <p>
     <a asp-action="Create">Create New</a>
 </p>
-<table class="table">
+<table class="table" id="tablaCarros" <>
     <thead>
         <tr>
             <th>
@@ -61,10 +61,10 @@
                 @Html.DisplayNameFor(model => model.Precio)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.IdmodeloNavigation)
+                Modelo
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.MarcaNavigation)
+               Marca
             </th>
             <th></th>
         </tr>
@@ -82,10 +82,10 @@
                 @Html.DisplayFor(modelItem => item.Precio)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.IdmodeloNavigation.IdModelo)
+                @Html.DisplayFor(modelItem => item.IdmodeloNavigation.Descripcion)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.MarcaNavigation.IdMarca)
+                @Html.DisplayFor(modelItem => item.MarcaNavigation.Marca1)
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.IdCar">Edit</a> |
@@ -99,3 +99,7 @@
 
 </body>
 </html>
+@section Scripts {
+    <script src="~/js/carros.js"></script>
+}
+
