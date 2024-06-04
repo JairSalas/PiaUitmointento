@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IVER JAIR\\source\\repos\\PiaUitmointento\\PiaUitmointento\\Intenteo6\\Intenteo6.csproj": {}
+    "C:\\Users\\marco\\OneDrive\\Escritorio\\PIA LISTA\\PiaUitmointento\\Intenteo6\\Intenteo6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IVER JAIR\\source\\repos\\PiaUitmointento\\PiaUitmointento\\Intenteo6\\Intenteo6.csproj": {
+    "C:\\Users\\marco\\OneDrive\\Escritorio\\PIA LISTA\\PiaUitmointento\\Intenteo6\\Intenteo6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IVER JAIR\\source\\repos\\PiaUitmointento\\PiaUitmointento\\Intenteo6\\Intenteo6.csproj",
+        "projectUniqueName": "C:\\Users\\marco\\OneDrive\\Escritorio\\PIA LISTA\\PiaUitmointento\\Intenteo6\\Intenteo6.csproj",
         "projectName": "Intenteo6",
-        "projectPath": "C:\\Users\\IVER JAIR\\source\\repos\\PiaUitmointento\\PiaUitmointento\\Intenteo6\\Intenteo6.csproj",
-        "packagesPath": "C:\\Users\\IVER JAIR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IVER JAIR\\source\\repos\\PiaUitmointento\\PiaUitmointento\\Intenteo6\\obj\\",
+        "projectPath": "C:\\Users\\marco\\OneDrive\\Escritorio\\PIA LISTA\\PiaUitmointento\\Intenteo6\\Intenteo6.csproj",
+        "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marco\\OneDrive\\Escritorio\\PIA LISTA\\PiaUitmointento\\Intenteo6\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\IVER JAIR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

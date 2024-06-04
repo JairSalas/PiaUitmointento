@@ -4,53 +4,55 @@
     ViewData["Title"] = "Create";
 }
 
-<h1>Create</h1>
+<h1 style="font-family: Arial, sans-serif; color: #333;">Create</h1>
 
-<h4>Carro</h4>
+<h4 style="font-family: Arial, sans-serif; color: #555;">Carro</h4>
 <hr />
 <div class="row">
     <div class="col-md-4">
-        <form asp-action="Create">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <form asp-action="Create" style="font-family: Arial, sans-serif; color: #333;">
+            <div asp-validation-summary="ModelOnly" class="text-danger" style="color: #e74c3c;"></div>
             <div class="form-group">
-                <label asp-for="Name" class="control-label"></label>
-                <input asp-for="Name" class="form-control" />
-                <span asp-validation-for="Name" class="text-danger"></span>
+                <label asp-for="Name" class="control-label" style="color: #333;"></label>
+                <input asp-for="Name" class="form-control" style="border: 1px solid #ccc; padding: 8px;" />
+                <span asp-validation-for="Name" class="text-danger" style="color: #e74c3c;"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Año" class="control-label"></label>
-                <input asp-for="Año" class="form-control" />
-                <span asp-validation-for="Año" class="text-danger"></span>
+                <label asp-for="Año" class="control-label" style="color: #333;"></label>
+                <input asp-for="Año" class="form-control" style="border: 1px solid #ccc; padding: 8px;" />
+                <span asp-validation-for="Año" class="text-danger" style="color: #e74c3c;"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Idmodelo" class="control-label"></label>
-                <select asp-for="Idmodelo" class ="form-control" asp-items="ViewBag.Idmodelo"></select>
+                <label asp-for="Idmodelo" class="control-label" style="color: #333;"></label>
+                <select asp-for="Idmodelo" class="form-control" asp-items="ViewBag.Idmodelo" style="border: 1px solid #ccc; padding: 8px;"></select>
             </div>
             <div class="form-group">
-                <label asp-for="Precio" class="control-label"></label>
-                <input asp-for="Precio" class="form-control" />
-                <span asp-validation-for="Precio" class="text-danger"></span>
+                <label asp-for="Precio" class="control-label" style="color: #333;"></label>
+                <input asp-for="Precio" class="form-control" style="border: 1px solid #ccc; padding: 8px;" />
+                <span asp-validation-for="Precio" class="text-danger" style="color: #e74c3c;"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Marca" class="control-label"></label>
-                <select asp-for="Marca" class ="form-control" asp-items="ViewBag.Marca"></select>
-            </div>
-            <div class="from-group">
-                <label asp-for="FotosCar" class="control-label"></label>
-                <input asp-for="FotosCar" class="form-control" />
-                <span asp-validation-for="FotosCar" class="text-danger"></span>
+                <label asp-for="Marca" class="control-label" style="color: #333;"></label>
+                <select asp-for="Marca" class="form-control" asp-items="ViewBag.Marca" style="border: 1px solid #ccc; padding: 8px;"></select>
             </div>
             <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+                <label asp-for="FotosCar" class="control-label" style="color: #333;"></label>
+                <input asp-for="FotosCar" class="form-control" style="border: 1px solid #ccc; padding: 8px;" />
+                <span asp-validation-for="FotosCar" class="text-danger" style="color: #e74c3c;"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" style="background-color: #3498db; border: none; padding: 10px 20px; border-radius: 5px; color: white; font-family: Arial, sans-serif; font-size: 16px; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#2980b9';" onmouseout="this.style.backgroundColor='#3498db';" />
             </div>
         </form>
     </div>
 </div>
 
 <div>
-    <a asp-action="Index">Back to List</a>
+    <a asp-action="Index" style="text-decoration: none; color: #3498db; padding: 10px 20px; border: 2px solid #3498db; border-radius: 5px; font-family: Arial, sans-serif; font-size: 16px; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#3498db'; this.style.color='#fff';" onmouseout="this.style.backgroundColor=''; this.style.color='#3498db';">Back to List</a>
 </div>
 
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
 }
